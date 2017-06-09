@@ -8,7 +8,7 @@
 
 > The dictionary file `resources/wordlist.txt` contains a list of english words of varying length (between 3 and 10 characters long) in alaphabetical order. Take a look at the file to see what's in there. There are two classes: WordList (which reads the dictionary file into a List of Strings) and Anagrams (which you can play around with and hopefully write some code to find anagrams in the dictionary).
 
-> **See if you can help write a program find and print out all anagrams of the word: _races_**
+> **See if you can write a program find and print out all anagrams of the word: _races_**
 
 > The purpose of the exercise to find out about the problem domain (in this case looking for specific words in the dictionary) and see if you can come up with a solution for the above, there's no right or wrong way to approach it. 
 
