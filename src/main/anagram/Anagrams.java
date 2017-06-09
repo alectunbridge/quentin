@@ -16,11 +16,11 @@ public class Anagrams {
         List<String> dictionary = new WordList().read("wordlist.txt");
 
         Anagrams anagrams = new Anagrams(dictionary);
-        anagrams.findAll("races");
+        anagrams.findAnagramsOf("races");
     }
 
 
-    public void findAll(String word){
+    public void findAnagramsOf(String word){
         //implement me
     }
 

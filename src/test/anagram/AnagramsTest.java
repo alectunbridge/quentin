@@ -17,7 +17,7 @@ private Anagrams testSubject;
 
     @Test
     public void shouldFindAnagrams(){
-        testSubject.findAll("races");
+        testSubject.findAnagramsOf("races");
     }
 
 }

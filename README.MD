@@ -23,7 +23,7 @@
 
 ## Testing
 
-> There is currently a single test (junit), which can be found in `src/test/java`, and can be run via your IDE of choice.
+> There are two tests (junit) one for WordList (which you don't need to do anything with) and one for Anagrams which you can write tests in (again, you don't have to write tests, but we do like the TDD approach). Both tests can be found in `src/test` and can be run via your IDE of choice.
 
 ## Running
 
