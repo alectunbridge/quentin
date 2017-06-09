@@ -2,7 +2,7 @@
 
 ## Objective:
 
-> Write a program to find one word anagrams in the dictionary file provided. Anagrams are different words that contain exactly the same letters, for example 'lane' and 'lean' are anagrams of 'elan'.
+> Write a program to find all anagrams of the word **'races'** in the dictionary file provided. Anagrams are different words that contain exactly the same letters, for example 'lane' and 'lean' are anagrams of 'elan'.
 
 ## Details
 
