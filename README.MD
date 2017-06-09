@@ -6,7 +6,7 @@
 
 ## Details
 
-> The dictionary file `resources/wordlist.txt` contains a list of english words of varying length (between 3 and 10 characters long) in alaphabetical order. Take a look at the file to see what's in there. There are two classes: WordList (which reads the dictionary file into a List of words) and Anagrams (which you can play around with and hopefully write some code to find anagrams in the dictionary).
+> The dictionary file `resources/wordlist.txt` contains a list of english words of varying length (between 3 and 10 characters long) in alaphabetical order. Take a look at the file to see what's in there. There are two classes: WordList (which reads the dictionary file into a List of Strings) and Anagrams (which you can play around with and hopefully write some code to find anagrams in the dictionary).
 
 > **See if you can help write a program find and print out all anagrams of the word: _races_**
 
