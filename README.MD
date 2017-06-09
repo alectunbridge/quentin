@@ -19,7 +19,7 @@
 
 ## Building
 
-> This a basic java project whose only dependency is junit (for unit testsm but only needed if you want to write some). To keep it simple there is no build tool (gradle/maven etc).
+> This a basic java project whose only dependency is junit (for unit tests, but only needed if you want to write some - the emphasis here is on problem solving and approach to work, not TDD). As it's a small, simple project there's no build tool included, use your IDE for compilation and test running.
 
 ## Testing
 
