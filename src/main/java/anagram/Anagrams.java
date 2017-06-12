@@ -23,7 +23,8 @@ public class Anagrams {
 
 
     public List<String> findAnagramsOf(String word){
-        return Arrays.asList("cares");
+        // implement me
+        return Collections.emptyList();
     }
 
 
