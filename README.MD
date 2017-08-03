@@ -22,7 +22,7 @@
 > This a basic java project whose only dependency is junit (for unit tests, but only needed if you want to write some - the emphasis here is on problem solving and approach to work, not TDD). A maven POM is included that declares dependencies for Junit and Mockito.
 ## Testing
 
-> There are two tests (junit) one for WordList (which you don't need to do anything with) and one for Anagrams which you can write tests in (again, you don't have to write tests, but we do like the TDD approach). Both tests can be found in `src/test` and can be run via your IDE of choice or via maven (mvn test).
+> There are two tests (junit) one for WordList (which you don't need to do anything with) and one for Anagrams which you can write tests in (again, you don't have to write tests, but we do like the TDD approach). Both tests can be found in `src/test` and can be run via your IDE or via maven (mvn test).
 
 ## Running
 

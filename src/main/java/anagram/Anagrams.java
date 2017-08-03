@@ -1,5 +1,7 @@
 package anagram;
 
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 public class Anagrams {
@@ -20,8 +22,9 @@ public class Anagrams {
     }
 
 
-    public void findAnagramsOf(String word){
-        //implement me
+    public List<String> findAnagramsOf(String word){
+        // implement me
+        return Collections.emptyList();
     }
 
 

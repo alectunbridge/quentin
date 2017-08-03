@@ -1,8 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+        <artifactId>java-anagrams-kata</artifactId>
+        <groupId>uk.co.autotrader</groupId>
+        <version>1.0.0-SNAPSHOT</version>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>uk.co.autotrader</groupId>
-    <artifactId>anagram-kata</artifactId>
-    <version>1.0-SNAPSHOT</version>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -16,6 +18,7 @@
             <version>1.10.19</version>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
         <plugin>
@@ -33,4 +36,5 @@
     <profiles>
 
     </profiles>
+
 </project>
