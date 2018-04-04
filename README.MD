@@ -12,9 +12,9 @@
 
 > The purpose of the exercise to find out about the problem domain (in this case looking for specific words in the dictionary) and see if you can come up with a solution for the above, there's no right or wrong way to approach it. 
 
-> If you get through that, how about:
-- finding the longest list of 4 letter anagrams in the dictionary
-- finding the longest list of anagrams in the dictionary of ay word length
+> If you complete that, see if you can:
+- find the longest list of 4 letter anagrams in the dictionary file
+- find the longest list of anagrams in the dictionary file (of any word length)
 - what can you find out about anagram distribution/occurrence in relation to word length?
 
 ## Building/Coding
