@@ -18,7 +18,7 @@ public class Anagrams {
         List<String> dictionary = new WordList().read("wordlist.txt");
 
         Anagrams anagrams = new Anagrams(dictionary);
-        anagrams.findAnagramsOf("races");
+        anagrams.findAnagramsOf("acres");
     }
 
 

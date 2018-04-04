@@ -13,7 +13,7 @@ private Anagrams testSubject;
 
     @Before
     public void setUp(){
-        List<String> dictionary = new WordList().read("wordlist.races.txt");
+        List<String> dictionary = new WordList().read("wordlist.acres.txt");
         testSubject=new Anagrams(dictionary);
     }
 
