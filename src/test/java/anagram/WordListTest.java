@@ -21,7 +21,7 @@ public class WordListTest {
     @Test
     public void readShouldReturnAllWordsFromFile(){
         //given
-        String dictionaryFileName = "wordlist.txt";
+        String dictionaryFileName = "wordlist.full.txt";
 
         //when
         List<String> words = testSubject.read(dictionaryFileName);

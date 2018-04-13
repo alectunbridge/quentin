@@ -1,5 +1,7 @@
 package anagram;
 
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 public class Anagrams {
@@ -16,12 +18,13 @@ public class Anagrams {
         List<String> dictionary = new WordList().read("wordlist.txt");
 
         Anagrams anagrams = new Anagrams(dictionary);
-        anagrams.findAnagramsOf("races");
+        anagrams.findAnagramsOf("acres");
     }
 
 
-    public void findAnagramsOf(String word){
-        //implement me
+    public List<String> findAnagramsOf(String word){
+        // implement me
+        return Collections.emptyList();
     }
 
 
